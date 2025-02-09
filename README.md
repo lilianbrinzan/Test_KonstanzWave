@@ -9,5 +9,5 @@ Pet project on PHP internet school
 ![SCSS](https://img.shields.io/badge/SASS-333?style=for-the-badge&logo=sass&logoColor=CC6699)
 
 ## Plans:
-- [X] make a shopping cart,
-- [ ] improve code.
+- [X] improve code,
+- [ ] make a shopping cart.
